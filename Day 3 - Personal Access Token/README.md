@@ -1,17 +1,34 @@
-# Cloning a GitHub Repository (Repo)
+# How to Obtain Github Personal Access Token and how to commit changes to repo using the personal access token ?
 
-When it comes to GitHub a repository or repo means the same thing a repository is like a folder we created online instead of locally. A repo had the added ability of being able to be traceable meaning any changes i make be it code, directory or addition or removal of a file it is all tracked by git. 
+#### Obtaining Personal Access Token:
 
-![](https://i.imgur.com/iIIwkGw.png)
+1. Click on your GitHub Profile Picture and Open Settings
+2. Then from settings scroll down to the bottom of the page and click on Developer Settings
+3. From Developer settings select Personal Access Token: 
+	![](https://i.imgur.com/vdyOmY4.png)
+4. Select Tokens (Classic) and Generate New Token, give it any name and any duration of validity.
 
-We can clone a repository by first copying it's URL from the blue code button.
-Then in command prompt (cmd) or any terminal we have to type:
+# Authenticating Personal Access Token
 
-`git clone repo URL`
+Let's say you have cloned a repo that belongs to you locally. Now you need to push some files to the online repo, you need to use your OBTAINED personal access token.
 
-or 
+First you need to remove Origin you can do that using:
 
-In this case:
+1. `git remote remove origin`
 
-`git clone https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT.git`
+Then you need to add personal token and a new origin try following this pattern:
+
+2. `git remote add origin https://[TOKEN]@github.com/[REPO-OWNER]/[REPO-NAME]`
+
+	Your username is your GitHub Username and the token can be something like:
+		`yydsiudsdsfbds` 
+	And you repo name can be like sample-repo so this is how your command will look like:
+
+	`git remote add origin https://yydsiudsdsfbds@github.com/shery7310/sample-repo`
+
+	Remember username is repo owner. 
+
+Then you can push anything using:
+
+4. `git push origin main`
 
