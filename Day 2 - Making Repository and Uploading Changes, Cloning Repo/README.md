@@ -72,3 +72,4 @@ If we made changes online let's say changed some content in README.md or any tex
 
 `git pull`
 
+**If you too got the PERSONAL TOKEN ISSUE GO THIS REPO: https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Day%203%20-%20Personal%20Access%20Token**
