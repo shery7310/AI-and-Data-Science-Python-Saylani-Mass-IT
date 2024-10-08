@@ -1,60 +1,69 @@
-# AI and Data Science Course by Saylani Mass IT Training Institute (SMIT)
+# What is Git and What is Github
 
-This course is being taught by [Sir Ahmed Jajja](https://github.com/Ahmadjajja) and [this](https://github.com/Ahmadjajja/AI_n_DataScience) is the original repository that my instructor created on 1st of October 2024
+We learnt to use commands git add, push, commit and pull. 
 
-This is a course aimed at absolute beginners and I say this as a student of Saylani that it's better than even paid courses by institutes in Pakistan. Saylani is offering this absolutely free, the course is worth hundreds of dollars and they are making careers out of students. The instructor who is the first teacher of this course has been a Section Leader at Standford's code in Place and a number of other international hackathons is determined to make us grind in Leetcode, he has also Co-Founded a Software House and also worked as Full Stack Developer.
+### What is Git? 
 
-#### What I am to do in this repository?
+Git is an open source technology that Linus Torvalds made while developing the Linux Kernel after a proprietary distributed VCS failed him. Don't confuse it with #github as it's and open source technology while github is an for profit company owned by Microsoft. Github is a distributed version control system.
 
-I will my Day to Day Journey in this repository, I will be sharing Course/Assignment Objectives, Solutions to given assignments and share my own small to large projects that I create along the way so it is helpful to all of my fellow class fellows.
-Each Day will have it's folder and I will try to cover how I solved the Given Problem, I am skipping Orientation Class folder as the instructor has covered that portion in detail.
+ #### Core Functionalities of Git when it was being developed were: 
 
-This is the proposed Course Outline:
+- Speed
+- Simplicity
+- Non-Linear
+- Distributed
+- Large
 
-#### Git and GitHub
+This is a video that helped me along the way to practice and learn github commands:
 
-- Version control basics
-- Collaborating on projects using GitHub
+https://youtu.be/mJ-qvsxPHpY 
 
-#### Python Programming
+### What is Version Control? 
 
-- Core Python Syntax and Concepts
-- Object-Oriented Programming Approach
-- Writing Clean and Efficient Code
+It is a system made to track code changes over time so we can recall specific versions later. Version control systems are known as VCS. VCS can help us see who made a specific change in the code that is causing a problem and can help us revert back to previous version of a code base if we made a problem. 
+![](https://i.imgur.com/7jgX0dP.png)
 
-#### Grinding Leetcode
+From my GitHub account i changed value of variable current_deployement in my flask project. 
 
-- How to get really good at data structures 
-- How to get win hackathons and gain international exposure
+### Types of Version Control Systems
 
-#### FastAPI/Flask 
+There are three types of version control systems namely:
 
-- Building RESTful APIs with FastAPI or Flask
+### Local Version Control Systems
 
-#### Database Design and Implementation Using PostgreSQL
+Earlier people would copy the same project at different places to keep record of changes or maybe date it. But this wasn't as effective to deal with programmers came up with local version control systems that had a simple database to keep track of changes. One example was RCS. 
 
-#### Langchain LLM (GPTs, Gemini)
+##### Advantages:
 
-- Understanding Large Language Models (LLMs)
-- Implementing LLMs for various applications
+- Simplicity: Easy to use and understand.
+- Speed: Operations are very fast as everything is on the local machine.
+- Offline Access: No need for network access, allowing for work without an internet connection.
+- Reduce
+- d Complexity: Less infrastructure and fewer dependencies compared to distributed systems.
 
-#### Prerequisite Math Basics
+##### Disadvantages:
 
-- Some Math Topics will be taught so students can get better at Mathematics necessary for Machine Learning
+- Limited Collaboration: Difficult to collaborate with multiple developers, as changes are not easily shared.
+- Single Point of Failure: If the local machine fails, all version history and changes could be lost.
+- Limited History: Typically stores limited history, making it harder to track long-term project evolution.
+- Redundancy Issues: Multiple copies of projects can lead to confusion and wasted storage space.
+### Centralized Version Control Systems
 
-#### Libraries and Tools:
+Multiple developers need to work on same project so local VCS weren't a good option. All developers viewed the project at a specific time stamp from one central server. It also provided views that would show who did what and admins had control over who can view/edit what parts of the code. This however was risky aswell as complete code was a single server and if server was down for some time no one would be able to commit code changes. Another risk was if data in the server's storage becomes corrupt and people don't have the complete code with them this would result in a huge loss. 
+##### Advantages:
 
-- Scikit-learn: Machine Learning library for classical models
-- NumPy & Pandas: Data Manipulation and Analysis
-- Matplotlib: Data Visualization
-- TensorFlow (Keras) & PyTorch: Deep Learning Frameworks
+- Enhanced Collaboration: Multiple developers can work on the same project simultaneously with updates and changes available to everyone in real-time.
+- Access Control: Administrators can manage permissions, controlling who can view and edit specific parts of the code.
+- Centralized Backup: A single, central repository simplifies backups and management.
+- Consistent State: Ensures all developers are working with the most recent version of the code base.
 
-#### Docker 
+##### Disadvantages:
 
-- Containerization Concepts
-- Deploying Applications using Docker
+- Single Point of Failure: If the central server goes down, no one can commit changes, and work can be halted.
+- Server Vulnerability: Data corruption or loss on the central server can lead to significant project setbacks if backups are not properly maintained.
+- Network Dependency: Requires network access to commit and update code, limiting offline work capabilities.
+- Scalability Issues: May struggle with performance and reliability as the number of users and size of the project grows.
+### Distributed Version Control Systems 
 
-#### Cloud Platforms
-
-- Introduction to Cloud Computing
-- Deploying and Managing Applications on Cloud Platforms
+In Distributed VCS like #github #Mercurial #Darcs #gist clients (users, developers in this case) can check out latest version of the code spanshot but they can also fully download the repository including full history. So if data is lost or server goes does it full copy can be restored back. Furthermore, many of these systems deal pretty well with having several remote repositories they
+can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.
