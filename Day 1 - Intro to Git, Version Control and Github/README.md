@@ -21,6 +21,10 @@ https://youtu.be/mJ-qvsxPHpY
 ### What is Version Control? 
 
 It is a system made to track code changes over time so we can recall specific versions later. Version control systems are known as VCS. VCS can help us see who made a specific change in the code that is causing a problem and can help us revert back to previous version of a code base if we made a problem. 
+
+
+
+
 ![](https://i.imgur.com/7jgX0dP.png)
 
 
