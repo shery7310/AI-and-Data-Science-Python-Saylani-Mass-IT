@@ -1,6 +1,4 @@
-# AI and Data Science Course by Saylani Mass IT Training Institute
-
-%% This is a repository for students of Saylani Mass IT Training Program that will help my fellow students to get better at Python, AI and Data Science.  %%
+# AI and Data Science Course by Saylani Mass IT Training Institute (SMIT)
 
 This course is being taught by [Sir Ahmed Jajja](https://github.com/Ahmadjajja) and [this](https://github.com/Ahmadjajja/AI_n_DataScience) is the original repository that my instructor created on 1st of October 2024
 
