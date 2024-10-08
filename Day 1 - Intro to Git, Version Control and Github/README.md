@@ -43,8 +43,7 @@ Earlier people would copy the same project at different places to keep record of
 - Simplicity: Easy to use and understand.
 - Speed: Operations are very fast as everything is on the local machine.
 - Offline Access: No need for network access, allowing for work without an internet connection.
-- Reduce
-- d Complexity: Less infrastructure and fewer dependencies compared to distributed systems.
+- Reduced Complexity: Less infrastructure and fewer dependencies compared to distributed systems.
 
 ##### Disadvantages:
 
