@@ -12,7 +12,7 @@
 10. **Write a program to determine if a given character is a vowel or consonant.**
 11. **Check if a given number is a multiple of both 3 and 5.**
 12. **Write a program that takes a temperature in Celsius and checks if it’s freezing, moderate, or hot.**
-13. **Take two numbers and an operator (+, -, *, /) as input and perform the corresponding operation.**
+13. **Take two numbers and an operator (+, -, x, /) as input and perform the corresponding operation.**
 14. **Check if a year input by the user is a century year.**
 15. **Write a program to check if a number is within a specified range.**
 16. **Take the length of three sides and classify the triangle (equilateral, isosceles, or scalene).**
