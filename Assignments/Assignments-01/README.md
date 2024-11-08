@@ -45,3 +45,10 @@
 18. **Use a loop to print numbers in reverse order within a given range.**
 19. **Use a for loop to print the square of each number from 1 to 10.**
 20. **Create a program that simulates a countdown timer starting from a given number down to zero.**
+
+# Fibonacci Series Question i.e. Q9 is the most interesting question in this series
+# and must if you want to get good at Leetcode:
+
+![](https://i.imgur.com/UkbfjeT.png)
+
+
