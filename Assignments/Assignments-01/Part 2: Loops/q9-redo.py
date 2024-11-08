@@ -4,7 +4,7 @@ We are going to start it with 1
 Each Next number is the sum of previous/preceding 2 numbers
 In this implementation I am using for loop to print fibonacci series
 there is no need to use list but i am using it so we actually see how varaible sum is being created
-in each iteration
+in each iteration.
 '''
 
 a, b = 0, 1
