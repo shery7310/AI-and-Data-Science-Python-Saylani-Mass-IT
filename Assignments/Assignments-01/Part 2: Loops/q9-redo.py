@@ -8,16 +8,9 @@ in each iteration.
 '''
 
 a, b = 0, 1
-fibonacci_10 = [1]
-# print(f"{b}", end=" ")
 for i in range(9):
-    sum = a + b # a = 0 + b = 1
-    print(f"(a:{a} + b:{b}) = {sum}") 
-    print(sum, end=" ") # 1 2 3 5 8 13 21 34 55 would have given us entire series without list
-    fibonacci_10.append(sum)
-    a = b
+    sum = a + b # 1 2 3 5 8 13 21 34 55
+    a = b  # 1 1 2 3 5 8 13 21 34
+    print(a, end=" ") # 1 1 2 3 5 8 13 21 34 55
     b = sum
 
-print("Actual Fibonacci Series:")
-for elem in fibonacci_10:
-    print(elem, end=" ")
