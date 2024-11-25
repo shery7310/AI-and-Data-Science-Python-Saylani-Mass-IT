@@ -1,3 +1,4 @@
+# Write a function to find the factorial of a number using recursion.
 num = int(input("enter num:\n"))
 
 ''' Equivalent Loop Structure
