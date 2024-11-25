@@ -9,6 +9,8 @@ def rec_fibonacci(nth):
     # If nth is greater than 1, it is computed as the sum of the two preceding Fibonacci numbers: fibonacci(nth - 1) and fibonacci(nth - 2)
     return rec_fibonacci(nth - 1) + rec_fibonacci(nth - 2)
 
-# For example, if nth = 3, the function will call rec_fibonacci(2) and rec_fibonacci(1). The result of rec_fibonacci(2) will be computed recursively,
-#while rec_fibonacci(1) directly hits the base case and returns 1.
+"""For example, if nth = 3, the function will call rec_fibonacci(2) and rec_fibonacci(1).
+The result of rec_fibonacci(2) will be computed recursively,
+while rec_fibonacci(1) directly hits the base case and returns 1. """
+
 print(rec_fibonacci(num))
