@@ -2,7 +2,6 @@
 these are vowels: a, e, i, o, u """
 
 vowels_in_each_word = {}
-yo = []
 sentence = input("Enter A Sentence:\n").split(" ")
 
 def is_vowel(string):
