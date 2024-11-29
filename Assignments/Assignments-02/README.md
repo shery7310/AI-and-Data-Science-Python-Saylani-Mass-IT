@@ -29,3 +29,17 @@
 
 1. Write a function that takes a list of employee salaries and calculates the average salary.
 2. Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters.
+
+## Some Questions That I found Interesting 
+### Finding Maximum Value in a list
+
+
+![](https://i.imgur.com/9LlyYzC.png)
+
+This can be found at: https://excalidraw.com/#json=m4bWt2DSERIDiD8_xPjR4,qADyfXhbbcj1v6m9IQ-aHw
+
+Although this isn't the most efficient solution the program keeps on running until the largest value in a list reaches the **end** of the list. And the end we are returning that last element of the list as you can see in the image that 30 starts from index 0 and reaches index -1 (negative indexing). In Iteration 1 the loop starts comparing the first two numbers 30 and 21, if the first number is greater than the second number than they will be replaced else nothing will happen. So 30 comes in place of 21 and 21 comes in place of 30 and this keeps happening in each iteration the sliding window keeps on changing i.e. 
+
+![](https://i.imgur.com/W3gO2qI.png)
+
+The green combination of first and second variable is like a sliding window and we are comparing each element in each iteration
