@@ -34,7 +34,7 @@
 ### Finding Maximum Value in a list
 
 
-![](https://i.imgur.com/Ij222NJ.png)
+![](https://i.imgur.com/7aIQIST.png)
 
 This can be found at: https://excalidraw.com/#json=m4bWt2DSERIDiD8_xPjR4,qADyfXhbbcj1v6m9IQ-aHw
 
