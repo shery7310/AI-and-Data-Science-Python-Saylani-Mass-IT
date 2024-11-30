@@ -58,6 +58,7 @@ def generate_pass():
         passwd += generate_numbers() # can return any unknown number of characters between 10 and 10_0000
         passwd += generate_special_characters()
         passwd += generate_alphabets()
+        passwd += generate_alphabets()
         passwd += generate_numbers()
         passwd += generate_special_characters()
 
