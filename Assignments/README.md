@@ -113,6 +113,3 @@ After learning and practicing syntax from the first book, I delved deeper into t
     <li><strong>Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters.</strong></li>
   </ol>
 </details>
-
-19. **Use a for loop to print the square of each number from 1 to 10.**
-20. **Create a program that simulates a countdown timer starting from a given number down to zero.** (Interesting Question)
