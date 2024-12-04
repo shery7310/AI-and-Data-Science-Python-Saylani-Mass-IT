@@ -1,7 +1,5 @@
 ### Python Assignment Questions
 
-This directory contains two parts i.e. Conditional Statements and For Loops. Both these are building blocks of programming concepts. 
-
 These are the books I used to learn and practice these concepts:
 
 <a href="https://www.amazon.com/Smarter-Way-Learn-Python-Remember/dp/1974431479">Smarter Way to Learn Python: # Learn it faster. Remember it longer by Mark Myers</a>
