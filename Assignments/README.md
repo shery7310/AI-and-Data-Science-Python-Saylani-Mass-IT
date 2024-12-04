@@ -15,7 +15,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
 
 <details>
-  <summary>Part-1 (If Else and Elif)</summary>
+  <summary><strong>Part-1 (If Else and Elif)</strong></summary>
   <br>
   <ol>
     <li><strong>Write a program that checks if a given number is positive, negative, or zero.</strong></li>
@@ -42,7 +42,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <details>
-  <summary>Part-2 (Loops)</summary>
+  <summary><strong>Part-2 (Loops)</strong></summary>
   <br>
   <ol>
     <li><strong>Print numbers from 1 to 20 using a for loop.</strong></li>
@@ -67,8 +67,6 @@ After learning and practicing syntax from the first book, I delved deeper into t
     <li><strong>Create a program that simulates a countdown timer starting from a given number down to zero. (Interesting Question)</strong></li>
   </ol>
 </details>
-
-
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
 
