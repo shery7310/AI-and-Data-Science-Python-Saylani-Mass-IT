@@ -1,5 +1,7 @@
 ### Python Assignment Questions
 
+This directory contains two parts i.e. Conditional Statements and For Loops. Both these are building blocks of programming concepts. 
+
 These are the books I used to learn and practice these concepts:
 
 <a href="https://www.amazon.com/Smarter-Way-Learn-Python-Remember/dp/1974431479">Smarter Way to Learn Python: # Learn it faster. Remember it longer by Mark Myers</a>
@@ -115,3 +117,75 @@ After learning and practicing syntax from the first book, I delved deeper into t
     <li><strong>Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters (Interesting and Useful)</strong></li>
   </ol>
 </details>
+
+<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-03">Assignment 3</a>
+
+<details>
+  <summary><strong>Part-1 (Basic Operations)</strong></summary>
+  <br>
+  <ol>
+    <li><strong>Create a dictionary student with keys: name, age, and grade. Assign them appropriate values.</strong></li>
+    <li><strong>Access the value of the key grade in the student dictionary.</strong></li>
+    <li><strong>Add a new key city to the student dictionary and set its value to "New York".</strong></li>
+        <li><strong>Update the value of the age key in the student dictionary to 20.</strong></li>
+  <li><strong>Remove the key city from the student dictionary.</strong></li>
+  </ol>
+</details>
+
+<details>
+    <summary><strong>Part-2 (Iterating through Dictionaries)</strong></summary>
+    <br>
+    <ol>
+  <li><strong>Iterate through the dictionary student and print all keys.</strong></li>
+  <li><strong>Iterate through the dictionary student and print all values.</strong></li>
+  <li><strong>Iterate through the dictionary student and print all key-value pairs in the format key: value.</strong></li>
+  <li><strong>Check if the key grade exists in the student dictionary and print True or False.</strong></li>
+  <li><strong>Count the total number of keys in the student dictionary.</strong></li>
+    </ol>
+  </details>
+
+<details>
+<summary><strong>Part-3 (Advanced Dictionary Usage)</strong></summary>
+<br>
+<ol>
+<li><strong>
+Merge the following two dictionaries and print the result: </strong>
+<pre>
+dict1 = {'a': 1, 'b': 2}  
+dict2 = {'c': 3, 'd': 4}
+</pre>
+</li>
+<li><strong>Create a dictionary from a list of tuples: </strong><code>[('name', 'Alice'), ('age', 25), ('city', 'Paris')]</code>.</li>
+<li><strong>Sort the keys of the dictionary </strong> <code>{'z': 1, 'a': 2, 'c': 3}</code> <strong>in ascending order and print the sorted dictionary.</strong>
+</li><li><strong>Reverse the dictionary </strong> <code>{'a': 1, 'b': 2, 'c': 3}</code> <strong> so that keys become values and values become keys.</strong></li><li><strong>Write a Python function to check if two dictionaries are identical (contain the same key-value pairs).</strong></li>
+</ol>
+</details>
+
+<details>
+<summary><strong>Part-4 (Nested Dictionaries)</strong></summary>
+<ol>
+<li><strong>Create a nested dictionary to represent the following data:</strong><pre>
+Person:  
+  Name: John  
+  Age: 30  
+  Address:  
+    Street: 123 Elm St  
+    City: Boston  
+</pre></li>
+<li><strong>Access the value of the <code>city</code> key in the nested dictionary from the previous question.</strong></li>
+<li><strong>Add a new key <code>Phone</code> to the nested dictionary with the value <code>"123-456-7890"</code>.</strong></li>
+<li><strong>Delete the <code>Address</code> key from the nested dictionary.</strong></li>
+<li><strong>Iterate through all the keys in the outermost level of the nested dictionary and print them.</strong></li>
+</ol></details>
+
+<details><summary><strong>Part-5 (Applications of Dictionaries)</strong></summary>
+<ol><li><strong>Use a dictionary to count the occurrences of each word in the string:</strong><code>"hello world hello python world"</code></li>
+<li><strong>Write a Python program to find the key with the maximum value in the dictionary: <code>{'a': 10, 'b': 15, 'c': 7}</code>.</strong></li>
+<li><strong>Create a dictionary to map numbers 1 to 5 to their squares (e.g., <code>{1: 1, 2: 4, 3: 9, ...}</code> ).</strong></li><li><strong>Write a Python program to remove duplicate values from the dictionary: <code>`{'a': 10, 'b': 15, 'c': 10, 'd': 15}`</code>.</strong></li><li><strong>Write a Python function that accepts a dictionary and a key, and returns the value associated with the key. If the key doesn’t exist, return <code>"Key not found"</code></strong>.</li></ol></details>
+
+<details><summary><strong>Part-6 (Challenging Problems)</strong></summary>
+<br>
+This section contains 30 Problems
+<br>
+<ol><li><strong>Given two dictionaries <code>dict1 = {'a': 5, 'b': 10}</code> and <code>dict2 = {'a': 3, 'b': 7}</code>, write a Python program to add the values of matching keys and print the result.</strong></li><li><strong>Write a Python program to create a dictionary where the keys are the first <code>n</code> positive integers, and the values are their <code>cubes</code>. Take <code>n</code> as user input.</strong></li><li><strong>Flatten the following nested dictionary into a single-level dictionary:<pre>{'a': {'b': 1, 'c': 2}, 'd': {'e': 3, 'f': 4}}</pre> </strong></li><li><strong>Write a Python program to split a dictionary into two dictionaries based on whether the values are odd or even.</strong></li><li><strong>Create a dictionary comprehension to filter out all keys in <code>{'a': 1, 'b': 2, 'c': 3, 'd': 4}</code> where the value is less than <code>3</code>.</strong></li></ol></details>
+	
