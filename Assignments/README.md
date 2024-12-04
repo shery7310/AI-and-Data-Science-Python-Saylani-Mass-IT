@@ -119,7 +119,9 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-03">Assignment 3</a>
+<br>
 This section contains 30 Problems
+<br>
 <details>
   <summary><strong>Part-1 (Basic Operations)</strong></summary>
   <br>
