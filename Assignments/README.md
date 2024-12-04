@@ -40,6 +40,32 @@ After learning and practicing syntax from the first book, I delved deeper into t
   </ol>
 </details>
 
+<details>
+  <summary>Part-2</summary>
+  <ol>
+    <li><strong>Print numbers from 1 to 20 using a for loop.</strong></li>
+    <li><strong>Use a while loop to print even numbers from 1 to 50.</strong></li>
+    <li><strong>Write a program to calculate the sum of all numbers between 1 and 100.</strong></li>
+    <li><strong>Print the multiplication table of a given number.</strong></li>
+    <li><strong>Print all odd numbers between 1 and 100 using a loop.</strong></li>
+    <li><strong>Use a for loop to print each character of a string.</strong></li>
+    <li><strong>Find the factorial of a number using a while loop.</strong></li>
+    <li><strong>Use a for loop to print numbers from 10 down to 1.</strong></li>
+    <li><strong>Write a program to print the first 10 Fibonacci numbers. (Interesting Question)</strong></li>
+    <li><strong>Use a loop to count the number of digits in an integer.</strong></li>
+    <li><strong>Print the reverse of a given number. (Logic can be improved)</strong></li>
+    <li><strong>Print all prime numbers between 1 and 50. (Should be done using # Dijkstra's Prime Number Algorithm, thus logic can be improved)</strong></li>
+    <li><strong>Use nested loops to print a pyramid pattern of *. (Yet to be done)</strong></li>
+    <li><strong>Write a program that breaks the loop when a certain condition is met.</strong></li>
+    <li><strong>Print the sum of even and odd numbers separately up to a given number.</strong></li>
+    <li><strong>Create a program to calculate the sum of the digits of an inputted integer.</strong></li>
+    <li><strong>Write a program that continues to ask for a number until the correct number is guessed.</strong></li>
+    <li><strong>Use a loop to print numbers in reverse order within a given range.</strong></li>
+    <li><strong>Use a for loop to print the square of each number from 1 to 10.</strong></li>
+    <li><strong>Create a program that simulates a countdown timer starting from a given number down to zero. (Interesting Question)</strong></li>
+  </ol>
+</details>
+
 
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
