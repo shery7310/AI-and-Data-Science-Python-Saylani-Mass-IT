@@ -16,6 +16,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-1 (If Else and Elif</summary>
+  
   <ol>
     <li><strong>Write a program that checks if a given number is positive, negative, or zero.</strong></li>
     <li><strong>Take a user’s age as input and display whether they are a minor, adult, or senior citizen.</strong></li>
@@ -42,6 +43,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-2 (Loops)</summary>
+  
   <ol>
     <li><strong>Print numbers from 1 to 20 using a for loop.</strong></li>
     <li><strong>Use a while loop to print even numbers from 1 to 50.</strong></li>
@@ -72,6 +74,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-1 (Basic Function Questions)</summary>
+  
   <ol>
     <li><strong>Write a function to calculate the area of a circle given its radius.</strong></li>
     <li><strong>Create a function that takes two numbers and returns their sum.</strong></li>
@@ -84,6 +87,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-2 (Intermediate Function Questions)</summary>
+  
   <ol>
     <li><strong>Create a function that takes a list of numbers and returns the largest number.</strong></li>
     <li><strong>Write a function to find the nth Fibonacci number using recursion.</strong></li>
@@ -96,6 +100,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-3 (Advanced Function Questions)</summary>
+  
   <ol>
     <li><strong>Write a function that calculates the power of a number without using the ** operator.</strong></li>
     <li><strong>Create a function that converts a given temperature from Celsius to Fahrenheit and vice versa.</strong></li>
@@ -108,6 +113,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-4 (Real-world Scenarios)</summary>
+  
   <ol>
     <li><strong>Write a function that takes a list of employee salaries and calculates the average salary.</strong></li>
     <li><strong>Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters.</strong></li>
