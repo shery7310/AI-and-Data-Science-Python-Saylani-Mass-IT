@@ -119,7 +119,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-03">Assignment 3</a>
-
+This section contains 30 Problems
 <details>
   <summary><strong>Part-1 (Basic Operations)</strong></summary>
   <br>
@@ -184,8 +184,6 @@ Person:
 <li><strong>Create a dictionary to map numbers 1 to 5 to their squares (e.g., <code>{1: 1, 2: 4, 3: 9, ...}</code> ).</strong></li><li><strong>Write a Python program to remove duplicate values from the dictionary: <code>`{'a': 10, 'b': 15, 'c': 10, 'd': 15}`</code>.</strong></li><li><strong>Write a Python function that accepts a dictionary and a key, and returns the value associated with the key. If the key doesn’t exist, return <code>"Key not found"</code></strong>.</li></ol></details>
 
 <details><summary><strong>Part-6 (Challenging Problems)</strong></summary>
-<br>
-This section contains 30 Problems
 <br>
 <ol><li><strong>Given two dictionaries <code>dict1 = {'a': 5, 'b': 10}</code> and <code>dict2 = {'a': 3, 'b': 7}</code>, write a Python program to add the values of matching keys and print the result.</strong></li><li><strong>Write a Python program to create a dictionary where the keys are the first <code>n</code> positive integers, and the values are their <code>cubes</code>. Take <code>n</code> as user input.</strong></li><li><strong>Flatten the following nested dictionary into a single-level dictionary:<pre>{'a': {'b': 1, 'c': 2}, 'd': {'e': 3, 'f': 4}}</pre> </strong></li><li><strong>Write a Python program to split a dictionary into two dictionaries based on whether the values are odd or even.</strong></li><li><strong>Create a dictionary comprehension to filter out all keys in <code>{'a': 1, 'b': 2, 'c': 3, 'd': 4}</code> where the value is less than <code>3</code>.</strong></li></ol></details>
 	
