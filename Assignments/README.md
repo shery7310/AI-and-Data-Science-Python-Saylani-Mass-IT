@@ -12,7 +12,7 @@ The book is structured with short, digestible chapters that focus on building sm
 
 After learning and practicing syntax from the first book, I delved deeper into the concepts and theories with this one. It significantly strengthened my programming skills and taught me how to think like a programmer. The book’s practical approach was more detailed than the previous one, and I made sure to take notes in the Obsidian app to reinforce my learning. Mind you Obsidian really is better than many note taking apps and it's better than making notes on register that you would never check again. Here's a guide to obsidian if you're interested: https://www.youtube.com/watch?v=QgbLb6QCK88 
 
-<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
+<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1 (If Elif and Else, and Loops</a>
 
 <details>
   <summary>Part-1</summary>
@@ -70,23 +70,49 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
 
-1. **Print numbers from 1 to 20 using a for loop.**
-2. **Use a while loop to print even numbers from 1 to 50.**
-3. **Write a program to calculate the sum of all numbers between 1 and 100.**
-4. **Print the multiplication table of a given number.**
-5. **Print all odd numbers between 1 and 100 using a loop.**
-6. **Use a for loop to print each character of a string.**
-7. **Find the factorial of a number using a while loop.**
-8. **Use a for loop to print numbers from 10 down to 1.**
-9. **Write a program to print the first 10 Fibonacci numbers.** (Interesting Question)
-10. **Use a loop to count the number of digits in an integer.**
-11. **Print the reverse of a given number.** (Logic can be improved)
-12. **Print all prime numbers between 1 and 50.** (Should be done using # Dijkstra's Prime Number Algorithm, thus logic can be improved )
-13. **Use nested loops to print a pyramid pattern of `*` (Yet to be done).**
-14. **Write a program that breaks the loop when a certain condition is met.**
-15. **Print the sum of even and odd numbers separately up to a given number.**
-16. **Create a program to calculate the sum of the digits of an inputted integer.**
-17. **Write a program that continues to ask for a number until the correct number is guessed.**
-18. **Use a loop to print numbers in reverse order within a given range.**
+<details>
+  <summary>Part-1 (Basic Function Questions)</summary>
+  <ol>
+    <li><strong>Write a function to calculate the area of a circle given its radius.</strong></li>
+    <li><strong>Create a function that takes two numbers and returns their sum.</strong></li>
+    <li><strong>Write a function to find the factorial of a number using recursion.</strong></li>
+    <li><strong>Write a function that takes a string and returns it reversed.</strong></li>
+    <li><strong>Create a function to check if a given number is prime.</strong></li>
+    <li><strong>Write a function to count the vowels in a given string.</strong></li>
+  </ol>
+</details>
+
+<details>
+  <summary>Part-2 (Intermediate Function Questions)</summary>
+  <ol>
+    <li><strong>Create a function that takes a list of numbers and returns the largest number.</strong></li>
+    <li><strong>Write a function to find the nth Fibonacci number using recursion.</strong></li>
+    <li><strong>Write a function to check whether a string is a palindrome.</strong></li>
+    <li><strong>Create a function that takes a list of integers and returns the sum of all even numbers.</strong></li>
+    <li><strong>Write a function to calculate the GCD (Greatest Common Divisor) of two numbers.</strong></li>
+    <li><strong>Create a function that accepts a dictionary and returns the key with the highest value.</strong></li>
+  </ol>
+</details>
+
+<details>
+  <summary>Part-3 (Advanced Function Questions)</summary>
+  <ol>
+    <li><strong>Write a function that calculates the power of a number without using the ** operator.</strong></li>
+    <li><strong>Create a function that converts a given temperature from Celsius to Fahrenheit and vice versa.</strong></li>
+    <li><strong>Write a function to flatten a nested list.</strong></li>
+    <li><strong>Create a function to check if two strings are anagrams.</strong></li>
+    <li><strong>Write a function that takes a list and removes all duplicate elements.</strong></li>
+    <li><strong>Create a function that takes a string and counts the frequency of each character.</strong></li>
+  </ol>
+</details>
+
+<details>
+  <summary>Part-4 (Real-world Scenarios)</summary>
+  <ol>
+    <li><strong>Write a function that takes a list of employee salaries and calculates the average salary.</strong></li>
+    <li><strong>Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters.</strong></li>
+  </ol>
+</details>
+
 19. **Use a for loop to print the square of each number from 1 to 10.**
 20. **Create a program that simulates a countdown timer starting from a given number down to zero.** (Interesting Question)
