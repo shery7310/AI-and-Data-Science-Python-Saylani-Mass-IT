@@ -16,7 +16,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-1 (If Else and Elif</summary>
-  
+  <br><br>
   <ol>
     <li><strong>Write a program that checks if a given number is positive, negative, or zero.</strong></li>
     <li><strong>Take a user’s age as input and display whether they are a minor, adult, or senior citizen.</strong></li>
@@ -43,7 +43,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-2 (Loops)</summary>
-  
+  <br><br>
   <ol>
     <li><strong>Print numbers from 1 to 20 using a for loop.</strong></li>
     <li><strong>Use a while loop to print even numbers from 1 to 50.</strong></li>
@@ -74,12 +74,12 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-1 (Basic Function Questions)</summary>
-  
+  <br><br>
   <ol>
     <li><strong>Write a function to calculate the area of a circle given its radius.</strong></li>
     <li><strong>Create a function that takes two numbers and returns their sum.</strong></li>
-    <li><strong>Write a function to find the factorial of a number using recursion.</strong></li>
-    <li><strong>Write a function that takes a string and returns it reversed.</strong></li>
+    <li><strong>Write a function to find the factorial of a number using recursion (This one needs to be practiced)/strong></li>
+    <li><strong>Write a function that takes a string and returns it reversed. (We are using Negative Indexing)</strong></li>
     <li><strong>Create a function to check if a given number is prime.</strong></li>
     <li><strong>Write a function to count the vowels in a given string.</strong></li>
   </ol>
@@ -87,10 +87,10 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-2 (Intermediate Function Questions)</summary>
-  
+  <br><br>
   <ol>
     <li><strong>Create a function that takes a list of numbers and returns the largest number.</strong></li>
-    <li><strong>Write a function to find the nth Fibonacci number using recursion.</strong></li>
+    <li><strong>Write a function to find the nth Fibonacci number using recursion. (Recursion is hard concept to master)</strong></li>
     <li><strong>Write a function to check whether a string is a palindrome.</strong></li>
     <li><strong>Create a function that takes a list of integers and returns the sum of all even numbers.</strong></li>
     <li><strong>Write a function to calculate the GCD (Greatest Common Divisor) of two numbers.</strong></li>
@@ -100,12 +100,12 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-3 (Advanced Function Questions)</summary>
-  
+  <br><br>
   <ol>
     <li><strong>Write a function that calculates the power of a number without using the ** operator.</strong></li>
     <li><strong>Create a function that converts a given temperature from Celsius to Fahrenheit and vice versa.</strong></li>
     <li><strong>Write a function to flatten a nested list.</strong></li>
-    <li><strong>Create a function to check if two strings are anagrams.</strong></li>
+    <li><strong>Create a function to check if two strings are anagrams.(Yet to be done, because logic is quite complex)</strong></li>
     <li><strong>Write a function that takes a list and removes all duplicate elements.</strong></li>
     <li><strong>Create a function that takes a string and counts the frequency of each character.</strong></li>
   </ol>
@@ -113,9 +113,9 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <details>
   <summary>Part-4 (Real-world Scenarios)</summary>
-  
+  <br><br>
   <ol>
     <li><strong>Write a function that takes a list of employee salaries and calculates the average salary.</strong></li>
-    <li><strong>Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters.</strong></li>
+    <li><strong>Create a function to generate a random password of given length, containing uppercase, lowercase, numbers, and special characters (Interesting and Useful)</strong></li>
   </ol>
 </details>
