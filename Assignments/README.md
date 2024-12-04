@@ -76,7 +76,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
   <ol>
     <li><strong>Write a function to calculate the area of a circle given its radius.</strong></li>
     <li><strong>Create a function that takes two numbers and returns their sum.</strong></li>
-    <li><strong>Write a function to find the factorial of a number using recursion (This one needs to be practiced)/strong></li>
+    <li><strong>Write a function to find the factorial of a number using recursion (This one needs to be practiced)</strong></li>
     <li><strong>Write a function that takes a string and returns it reversed. (We are using Negative Indexing)</strong></li>
     <li><strong>Create a function to check if a given number is prime.</strong></li>
     <li><strong>Write a function to count the vowels in a given string.</strong></li>
