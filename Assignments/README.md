@@ -14,26 +14,31 @@ After learning and practicing syntax from the first book, I delved deeper into t
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
 
-1. **Write a program that checks if a given number is positive, negative, or zero.**
-2. **Take a user’s age as input and display whether they are a minor, adult, or senior citizen.**
-3. **Write a program that checks if a given year is a leap year.**
-4. **Take an integer and check if it’s even or odd.**
-5. **Ask the user for a grade percentage and display the corresponding letter grade (A, B, C, D, F).**
-6. **Write a program to find the largest of two numbers.**
-7. **Write a program to find the largest of three numbers.**
-8. **Create a program that checks if a given string is a palindrome.**
-9. **Take three sides of a triangle as input and check if they form a valid triangle.**
-10. **Write a program to determine if a given character is a vowel or consonant.**
-11. **Check if a given number is a multiple of both 3 and 5.**
-12. **Write a program that takes a temperature in Celsius and checks if it’s freezing, moderate, or hot.**
-13. **Take two numbers and an operator (+, -, x, /) as input and perform the corresponding operation.**
-14. **Check if a year input by the user is a century year.**
-15. **Write a program to check if a number is within a specified range.**
-16. **Take the length of three sides and classify the triangle (equilateral, isosceles, or scalene).**
-17. **Write a program that asks for an integer and checks if it’s divisible by 2, 3, or both.**
-18. **Take a user’s score and determine if they pass or fail (pass if 50 or above).**
-19. **Check if a string input is uppercase, lowercase, or a mix.**
-20. **Create a program that evaluates if an inputted number is prime (This Logic Can Be Improved)
+<details>
+  <summary>Questions</summary>
+  <ol>
+    <li><strong>Write a program that checks if a given number is positive, negative, or zero.</strong></li>
+    <li><strong>Take a user’s age as input and display whether they are a minor, adult, or senior citizen.</strong></li>
+    <li><strong>Write a program that checks if a given year is a leap year.</strong></li>
+    <li><strong>Take an integer and check if it’s even or odd.</strong></li>
+    <li><strong>Ask the user for a grade percentage and display the corresponding letter grade (A, B, C, D, F).</strong></li>
+    <li><strong>Write a program to find the largest of two numbers.</strong></li>
+    <li><strong>Write a program to find the largest of three numbers.</strong></li>
+    <li><strong>Create a program that checks if a given string is a palindrome.</strong></li>
+    <li><strong>Take three sides of a triangle as input and check if they form a valid triangle.</strong></li>
+    <li><strong>Write a program to determine if a given character is a vowel or consonant.</strong></li>
+    <li><strong>Check if a given number is a multiple of both 3 and 5.</strong></li>
+    <li><strong>Write a program that takes a temperature in Celsius and checks if it’s freezing, moderate, or hot.</strong></li>
+    <li><strong>Take two numbers and an operator (+, -, x, /) as input and perform the corresponding operation.</strong></li>
+    <li><strong>Check if a year input by the user is a century year.</strong></li>
+    <li><strong>Write a program to check if a number is within a specified range.</strong></li>
+    <li><strong>Take the length of three sides and classify the triangle (equilateral, isosceles, or scalene).</strong></li>
+    <li><strong>Write a program that asks for an integer and checks if it’s divisible by 2, 3, or both.</strong></li>
+    <li><strong>Take a user’s score and determine if they pass or fail (pass if 50 or above).</strong></li>
+    <li><strong>Check if a string input is uppercase, lowercase, or a mix.</strong></li>
+  </ol>
+</details>
+
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
 
