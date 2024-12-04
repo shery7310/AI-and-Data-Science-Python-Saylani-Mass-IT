@@ -71,7 +71,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
 
 <details>
-  <summary>Part-1 (Basic Function Questions)</summary>
+  <summary><strong>Part-1 (Basic Function Questions)</strong></summary>
   <br>
   <ol>
     <li><strong>Write a function to calculate the area of a circle given its radius.</strong></li>
@@ -84,7 +84,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <details>
-  <summary>Part-2 (Intermediate Function Questions)</summary>
+  <summary><strong>Part-2 (Intermediate Function Questions)</strong></summary>
   <br>
   <ol>
     <li><strong>Create a function that takes a list of numbers and returns the largest number.</strong></li>
@@ -97,7 +97,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <details>
-  <summary>Part-3 (Advanced Function Questions)</summary>
+  <summary><strong>Part-3 (Advanced Function Questions)</strong></summary>
   <br>
   <ol>
     <li><strong>Write a function that calculates the power of a number without using the ** operator.</strong></li>
@@ -110,7 +110,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <details>
-  <summary>Part-4 (Real-world Scenarios)</summary>
+  <summary><strong>Part-4 (Real-world Scenarios)</strong></summary>
   <br>
   <ol>
     <li><strong>Write a function that takes a list of employee salaries and calculates the average salary.</strong></li>
