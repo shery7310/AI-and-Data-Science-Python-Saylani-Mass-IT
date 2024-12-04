@@ -12,10 +12,10 @@ The book is structured with short, digestible chapters that focus on building sm
 
 After learning and practicing syntax from the first book, I delved deeper into the concepts and theories with this one. It significantly strengthened my programming skills and taught me how to think like a programmer. The book’s practical approach was more detailed than the previous one, and I made sure to take notes in the Obsidian app to reinforce my learning. Mind you Obsidian really is better than many note taking apps and it's better than making notes on register that you would never check again. Here's a guide to obsidian if you're interested: https://www.youtube.com/watch?v=QgbLb6QCK88 
 
-<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1 (If Elif and Else, and Loops</a>
+<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
 
 <details>
-  <summary>Part-1</summary>
+  <summary>Part-1 (If Else and Elif</summary>
   <ol>
     <li><strong>Write a program that checks if a given number is positive, negative, or zero.</strong></li>
     <li><strong>Take a user’s age as input and display whether they are a minor, adult, or senior citizen.</strong></li>
@@ -41,7 +41,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 </details>
 
 <details>
-  <summary>Part-2</summary>
+  <summary>Part-2 (Loops)</summary>
   <ol>
     <li><strong>Print numbers from 1 to 20 using a for loop.</strong></li>
     <li><strong>Use a while loop to print even numbers from 1 to 50.</strong></li>
