@@ -15,7 +15,7 @@ After learning and practicing syntax from the first book, I delved deeper into t
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
 
 <details>
-  <summary>Questions</summary>
+  <summary>Part-1</summary>
   <ol>
     <li><strong>Write a program that checks if a given number is positive, negative, or zero.</strong></li>
     <li><strong>Take a user’s age as input and display whether they are a minor, adult, or senior citizen.</strong></li>
@@ -36,8 +36,10 @@ After learning and practicing syntax from the first book, I delved deeper into t
     <li><strong>Write a program that asks for an integer and checks if it’s divisible by 2, 3, or both.</strong></li>
     <li><strong>Take a user’s score and determine if they pass or fail (pass if 50 or above).</strong></li>
     <li><strong>Check if a string input is uppercase, lowercase, or a mix.</strong></li>
+    <li><strong>Create a program that evaluates if an inputted number is prime.</strong></li>
   </ol>
 </details>
+
 
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
