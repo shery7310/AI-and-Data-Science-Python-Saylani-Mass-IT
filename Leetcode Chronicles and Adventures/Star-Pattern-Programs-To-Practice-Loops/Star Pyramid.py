@@ -3,12 +3,11 @@
   ***
  *****
 *******
-Question: Use nested loops to print a pyramid pattern of *.
+
 3 spaces at start and 3 after the first star, we need to print 1 star
 2 spaces at the start for 2nd row of stars, we need to print 3 stars
 1 space at the start for 3rd row, we need to print 5 stars
 no space in the last row, we need to print 7 stars
-Here we printed without use of nested loop
 """
 space_count = 3 # in each row number of spaces are getting reduced that's why we need this variable
 num = 0 # in each row the number of star is increasing by two from the previous one
@@ -22,5 +21,3 @@ for row in range(1, 5): # We need 4 rows so we run this 4 times
                              # in the second iteration row = 2 and num = 1, 2 + 1 = 3 so 3 * are printed
     num += 1              # after each print statement value of num increases by 1
     space_count -= 1      # after each print statement value of space_count decreases by 1
-
-# Using Nested Loops
