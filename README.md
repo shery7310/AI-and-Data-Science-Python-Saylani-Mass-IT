@@ -1,59 +1,60 @@
-### Python Assignment Questions
+# AI and Data Science Course by Saylani Mass IT Training Institute (SMIT)
 
-This directory contains two parts i.e. Conditional Statements and For Loops. Both these are building blocks of programming concepts. 
+This course is being taught by [Sir Ahmed Jajja](https://github.com/Ahmadjajja) and [this](https://github.com/Ahmadjajja/AI_n_DataScience) is the original repository that my instructor created on 1st of October 2024
 
-These are the books I used to learn and practice these concepts:
+This is a course aimed at absolute beginners and I say this as a student of Saylani that it's better than even paid courses by institutes in Pakistan. Saylani is offering this absolutely free, the course is worth hundreds of dollars and they are making careers out of students. The instructor who is the first teacher of this course has been a Section Leader at Standford's code in Place and a number of other international hackathons is determined to make us grind in Leetcode, he has also Co-Founded a Software House and also worked as Full Stack Developer.
 
-<a href="https://www.amazon.com/Smarter-Way-Learn-Python-Remember/dp/1974431479">Smarter Way to Learn Python: # Learn it faster. Remember it longer by Mark Myers</a>
+#### What I am to do in this repository?
 
-The book is structured with short, digestible chapters that focus on building small concepts. I learned and practiced syntax through each chapter, and the exercises at the end of every section helped me reinforce and improve my understanding of the material. This book had had 4-6 chapters for a small concept i.e if it taught conditionals i had 7 chapters that really taught me in detail.
+I will my Day to Day Journey in this repository, I will be sharing Course/Assignment Objectives, Solutions to given assignments and share my own small to large projects that I create along the way so it is helpful to all of my fellow class fellows.
+Each Day will have it's folder and I will try to cover how I solved the Given Problem, I am skipping Orientation Class folder as the instructor has covered that portion in detail.
 
-<a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a>
+This is the proposed Course Outline:
 
-After learning and practicing syntax from the first book, I delved deeper into the concepts and theories with this one. It significantly strengthened my programming skills and taught me how to think like a programmer. The book’s practical approach was more detailed than the previous one, and I made sure to take notes in the Obsidian app to reinforce my learning. Mind you Obsidian really is better than many note taking apps and it's better than making notes on register that you would never check again. Here's a guide to obsidian if you're interested: https://www.youtube.com/watch?v=QgbLb6QCK88 
+#### Git and GitHub
 
-<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
+- Version control basics
+- Collaborating on projects using GitHub
 
-1. **Write a program that checks if a given number is positive, negative, or zero.**
-2. **Take a user’s age as input and display whether they are a minor, adult, or senior citizen.**
-3. **Write a program that checks if a given year is a leap year.**
-4. **Take an integer and check if it’s even or odd.**
-5. **Ask the user for a grade percentage and display the corresponding letter grade (A, B, C, D, F).**
-6. **Write a program to find the largest of two numbers.**
-7. **Write a program to find the largest of three numbers.**
-8. **Create a program that checks if a given string is a palindrome.**
-9. **Take three sides of a triangle as input and check if they form a valid triangle.**
-10. **Write a program to determine if a given character is a vowel or consonant.**
-11. **Check if a given number is a multiple of both 3 and 5.**
-12. **Write a program that takes a temperature in Celsius and checks if it’s freezing, moderate, or hot.**
-13. **Take two numbers and an operator (+, -, x, /) as input and perform the corresponding operation.**
-14. **Check if a year input by the user is a century year.**
-15. **Write a program to check if a number is within a specified range.**
-16. **Take the length of three sides and classify the triangle (equilateral, isosceles, or scalene).**
-17. **Write a program that asks for an integer and checks if it’s divisible by 2, 3, or both.**
-18. **Take a user’s score and determine if they pass or fail (pass if 50 or above).**
-19. **Check if a string input is uppercase, lowercase, or a mix.**
-20. **Create a program that evaluates if an inputted number is prime (This Logic Can Be Improved)
+#### Python Programming
 
-<a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-02">Assignment 2</a>
+- Core Python Syntax and Concepts
+- Object-Oriented Programming Approach
+- Writing Clean and Efficient Code
 
-1. **Print numbers from 1 to 20 using a for loop.**
-2. **Use a while loop to print even numbers from 1 to 50.**
-3. **Write a program to calculate the sum of all numbers between 1 and 100.**
-4. **Print the multiplication table of a given number.**
-5. **Print all odd numbers between 1 and 100 using a loop.**
-6. **Use a for loop to print each character of a string.**
-7. **Find the factorial of a number using a while loop.**
-8. **Use a for loop to print numbers from 10 down to 1.**
-9. **Write a program to print the first 10 Fibonacci numbers.** (Interesting Question)
-10. **Use a loop to count the number of digits in an integer.**
-11. **Print the reverse of a given number.** (Logic can be improved)
-12. **Print all prime numbers between 1 and 50.** (Should be done using # Dijkstra's Prime Number Algorithm, thus logic can be improved )
-13. **Use nested loops to print a pyramid pattern of `*` (Yet to be done).**
-14. **Write a program that breaks the loop when a certain condition is met.**
-15. **Print the sum of even and odd numbers separately up to a given number.**
-16. **Create a program to calculate the sum of the digits of an inputted integer.**
-17. **Write a program that continues to ask for a number until the correct number is guessed.**
-18. **Use a loop to print numbers in reverse order within a given range.**
-19. **Use a for loop to print the square of each number from 1 to 10.**
-20. **Create a program that simulates a countdown timer starting from a given number down to zero.** (Interesting Question)
+#### Grinding Leetcode
+
+- How to get really good at data structures 
+- How to get win hackathons and gain international exposure
+
+#### FastAPI/Flask 
+
+- Building RESTful APIs with FastAPI or Flask
+
+#### Database Design and Implementation Using PostgreSQL
+
+#### Langchain LLM (GPTs, Gemini)
+
+- Understanding Large Language Models (LLMs)
+- Implementing LLMs for various applications
+
+#### Prerequisite Math Basics
+
+- Some Math Topics will be taught so students can get better at Mathematics necessary for Machine Learning
+
+#### Libraries and Tools:
+
+- Scikit-learn: Machine Learning library for classical models
+- NumPy & Pandas: Data Manipulation and Analysis
+- Matplotlib: Data Visualization
+- TensorFlow (Keras) & PyTorch: Deep Learning Frameworks
+
+#### Docker 
+
+- Containerization Concepts
+- Deploying Applications using Docker
+
+#### Cloud Platforms
+
+- Introduction to Cloud Computing
+- Deploying and Managing Applications on Cloud Platforms
