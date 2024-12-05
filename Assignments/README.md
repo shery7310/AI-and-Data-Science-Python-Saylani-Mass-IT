@@ -1,8 +1,6 @@
 ### Python Assignment Questions
 
-This directory contains two parts i.e. Conditional Statements and For Loops. Both these are building blocks of programming concepts. 
-
-These are the books I used to learn and practice these concepts:
+These are the books I used to learn and practice programming concepts:
 
 <a href="https://www.amazon.com/Smarter-Way-Learn-Python-Remember/dp/1974431479">Smarter Way to Learn Python: # Learn it faster. Remember it longer by Mark Myers</a>
 
@@ -11,6 +9,8 @@ The book is structured with short, digestible chapters that focus on building sm
 <a href="https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280">Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes</a>
 
 After learning and practicing syntax from the first book, I delved deeper into the concepts and theories with this one. It significantly strengthened my programming skills and taught me how to think like a programmer. The book’s practical approach was more detailed than the previous one, and I made sure to take notes in the Obsidian app to reinforce my learning. Mind you Obsidian really is better than many note taking apps and it's better than making notes on register that you would never check again. Here's a guide to obsidian if you're interested: https://www.youtube.com/watch?v=QgbLb6QCK88 
+
+The assignment questions really helped practice and get better at programming gradually
 
 <a href="https://github.com/shery7310/AI-and-Data-Science-Python-Saylani-Mass-IT/tree/main/Assignments/Assignments-01">Assignment 1</a>
 
