@@ -59,4 +59,20 @@ for row in range(1, 8, 2):# this stores 1, 3, 5, 7 respectively in row variable
         print('*' * row, end="")
         print() # after each set of '*' patterns print along with current space, then we shift to new line
 
+print()
 
+# this is the best logic because it uses separate loop for spaces and separate for *
+spaces = 3
+for row in range(1, 8, 2): # 1 3 5 7
+
+    # loop for spaces
+    for space in range(spaces):
+        print(" ", end="")
+    spaces -= 1
+
+    # loop for * pattern
+    for _ in range(row): # will iterate run 0 to 4 times fetching values 1 3 5 7
+                         # as it's an internal loop it will run them times the value in row variable
+        print("*", end="") # after each run we override end argument so that flow doesn't go to next line
+
+    print() # to take flow to next line

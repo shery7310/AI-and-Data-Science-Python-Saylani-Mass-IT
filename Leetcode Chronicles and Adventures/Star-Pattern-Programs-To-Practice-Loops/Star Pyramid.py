@@ -22,3 +22,18 @@ for row in range(1, 5): # We need 4 rows so we run this 4 times
     num += 1              # after each print statement value of num increases by 1
     space_count -= 1      # after each print statement value of space_count decreases by 1
 
+# Another logic using two nested loops
+spaces = 3
+for row in range(1, 8, 2): # 1 3 5 7
+
+    # loop for spaces
+    for space in range(spaces):
+        print(" ", end="")
+    spaces -= 1
+
+    # loop for * pattern
+    for _ in range(row): # will iterate run 0 to 4 times fetching values 1 3 5 7
+                         # as it's an internal loop it will run them times the value in row variable
+        print("*", end="") # after each run we override end argument so that flow doesn't go to next line
+
+    print() # to take flow to next line
