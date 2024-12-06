@@ -21,3 +21,4 @@ for row in range(1, 5): # We need 4 rows so we run this 4 times
                              # in the second iteration row = 2 and num = 1, 2 + 1 = 3 so 3 * are printed
     num += 1              # after each print statement value of num increases by 1
     space_count -= 1      # after each print statement value of space_count decreases by 1
+
