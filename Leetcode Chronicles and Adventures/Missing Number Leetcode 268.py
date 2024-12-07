@@ -18,7 +18,17 @@ class Solution:
                 missing_num = num - 1
                 return missing_num
 
-li = [0, 1]
+li = [9,6,4,2,3,5,7,0,1]
 sol = Solution()
 result = sol.missingNumber(li)
 print(result)
+
+# These are some more cases we can check this against:
+'''
+[0,1]
+[3,0,1]
+[0, 1, 3, 4, 5, 7, 9, 10, 11]
+'''
+
+
+
