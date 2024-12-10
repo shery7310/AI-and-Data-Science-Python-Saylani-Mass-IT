@@ -1,1 +1,6 @@
-# Add a new key Phone to the nested dictionary with the value "123-456-7890".
+
+# Delete the Address key from the nested dictionary.
+
+person = {'Name': 'John', 'Age': 30, 'Address': {'Street': '123 Elm St', 'City': 'Boston'}}
+
+person.popitem() # Will delete last element/attribute Address in place

@@ -1,16 +1,13 @@
-# Sort the keys of the dictionary {'z': 1, 'a': 2, 'c': 3} in ascending order and print the sorted dictionary.
+# Create a dictionary from a list of tuples: [('name', 'Alice'), ('age', 25), ('city', 'Paris')].
+user_info = [('name', 'Alice'), ('age', 25), ('city', 'Paris')]
 
-some_dict = {'z': 1, 'a': 2, 'c': 3}
+user_dict = {}
+user_dict.update(user_info) # The update method for dictionaries allows us to pass tuple
+# The function automatically made the first of a tuple key and the second value the value of that key
+print(user_dict) # {'name': 'Alice', 'age': 25, 'city': 'Paris'}
 
-dict_li = []
-for key_value in some_dict.items(): # instead of unpacking both key and value separately
-                                    # I am unpacking both in 1 variable
-    dict_li.append(key_value)       # the variable key_value holds a tuple of the key-value pair
-                                    # each tuple is appended to the dict_li list
-                                    # now we need to sort this list of tuples
-
-dict_li.sort()                     # this sorts list in place
-some_dict.clear()                  # Now we need to recreate the dictionary, some_dict is now empty
-
-some_dict.update(dict_li)          # The list of tuples have been added to the dictionary
-print(some_dict)                   # outputs: {'a': 2, 'c': 3, 'z': 1}
+# We can add this tuple to the dictionary this way:
+another_user_dict = {}
+for key_value in user_info:
+    another_user_dict.update({key_value[0]: key_value[1]})
+print(another_user_dict)

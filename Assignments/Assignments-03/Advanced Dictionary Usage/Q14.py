@@ -1,19 +1,13 @@
-# Write a Python function to check if two dictionaries are identical (contain the same key-value pairs).
+# Reverse the dictionary {'a': 1, 'b': 2, 'c': 3} so that keys become values and values become keys.
 
-dict1 = {'c': 3, 'b': 2, 'a': 1}
-dict2 = {'a': 1, 'd': 4, 'e': 5, 'c': 3, 'b': 2}
-dict3 = dict1 | dict2 # We can see that keys in dict1 are already present in dict2 in this case keys of dict2 take precedence
-                      # as dict2 comes last
+some_dict = {'a': 1, 'b': 2, 'c': 3}
+li_tuples = []
+for key_value in some_dict.items():
+    li_tuples.append(key_value) # We are unpacking each key-value pair as a tuple and appending to an empty list
+                                # Since tuples are immutable we can not sort them that's why we are using a list
 
-def check_identical_dicts(first_dict, second_dict):
-    if first_dict == second_dict:
-        print('Yes they are identical')
-    else:
-        print("Nope! these are not identical")
-
-check_identical_dicts(dict2, dict3)
-
-print(dict2) # outputs: {'a': 1, 'd': 4, 'e': 5, 'c': 3, 'b': 2}
-print(dict3) # outputs: {'c': 3, 'b': 2, 'a': 1, 'd': 4, 'e': 5}
-# Since dictionaries are implementation of hashtable order does not matter in their case
-# Because check_identical_dicts is actually comparing keys and their respective values
+li_tuples.sort(reverse=True) # This sorts list in place in descending order
+print(li_tuples) # outputs: [('c', 3), ('b', 2), ('a', 1)]
+some_dict.clear() # we remove all elements inside the dict
+some_dict.update(li_tuples) # Then we give the list of tuples to the update method of dictionaries
+print(some_dict) # outputs: [('c', 3), ('b', 2), ('a', 1)]

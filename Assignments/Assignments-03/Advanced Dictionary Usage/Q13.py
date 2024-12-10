@@ -1,13 +1,16 @@
-# Reverse the dictionary {'a': 1, 'b': 2, 'c': 3} so that keys become values and values become keys.
+# Sort the keys of the dictionary {'z': 1, 'a': 2, 'c': 3} in ascending order and print the sorted dictionary.
 
-some_dict = {'a': 1, 'b': 2, 'c': 3}
-li_tuples = []
-for key_value in some_dict.items():
-    li_tuples.append(key_value) # We are unpacking each key-value pair as a tuple and appending to an empty list
-                                # Since tuples are immutable we can not sort them that's why we are using a list
+some_dict = {'z': 1, 'a': 2, 'c': 3}
 
-li_tuples.sort(reverse=True) # This sorts list in place in descending order
-print(li_tuples) # outputs: [('c', 3), ('b', 2), ('a', 1)]
-some_dict.clear() # we remove all elements inside the dict
-some_dict.update(li_tuples) # Then we give the list of tuples to the update method of dictionaries
-print(some_dict) # outputs: [('c', 3), ('b', 2), ('a', 1)]
+dict_li = []
+for key_value in some_dict.items(): # instead of unpacking both key and value separately
+                                    # I am unpacking both in 1 variable
+    dict_li.append(key_value)       # the variable key_value holds a tuple of the key-value pair
+                                    # each tuple is appended to the dict_li list
+                                    # now we need to sort this list of tuples
+
+dict_li.sort()                     # this sorts list in place
+some_dict.clear()                  # Now we need to recreate the dictionary, some_dict is now empty
+
+some_dict.update(dict_li)          # The list of tuples have been added to the dictionary
+print(some_dict)                   # outputs: {'a': 2, 'c': 3, 'z': 1}
