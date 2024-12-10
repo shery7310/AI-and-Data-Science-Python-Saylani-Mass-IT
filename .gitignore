@@ -3,6 +3,3 @@
 
 .idea/ # this is file created by pycharm we want to ignore this
 
-# We are temporarily ignoring these:
-Assignments/Assignments-03/create_files.sh
-Assignments/Assignments-03/move_files.sh
