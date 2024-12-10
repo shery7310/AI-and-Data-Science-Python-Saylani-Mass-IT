@@ -20,22 +20,21 @@
 
 ### **Advanced Dictionary Usage**
 
-- Merge the following two dictionaries and print the result:
+11. Merge the following two dictionaries and print the result:
   
   ```python
   dict1 = {'a': 1, 'b': 2}  
   dict2 = {'c': 3, 'd': 4}  
   ```
-11. Create a dictionary from a list of tuples: `[('name', 'Alice'), ('age', 25), ('city', 'Paris')]`.
-12. Sort the keys of the dictionary `{'z': 1, 'a': 2, 'c': 3}` in ascending order and print the sorted dictionary.
-13. Reverse the dictionary `{'a': 1, 'b': 2, 'c': 3}` so that keys become values and values become keys.
-14. Write a Python function to check if two dictionaries are identical (contain the same key-value pairs).
+12. Create a dictionary from a list of tuples: `[('name', 'Alice'), ('age', 25), ('city', 'Paris')]`.
+13. Sort the keys of the dictionary `{'z': 1, 'a': 2, 'c': 3}` in ascending order and print the sorted dictionary.
+14. Reverse the dictionary `{'a': 1, 'b': 2, 'c': 3}` so that keys become values and values become keys.
+15. Write a Python function to check if two dictionaries are identical (contain the same key-value pairs).
 
 ---
 
 ### **Nested Dictionaries**
-
-15. Create a nested dictionary to represent the following data:
+- Create a nested dictionary to represent the following data:
   
   ```
   Person:  
