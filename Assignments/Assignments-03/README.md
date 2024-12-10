@@ -35,7 +35,7 @@
 
 ### **Nested Dictionaries**
 
-- Create a nested dictionary to represent the following data:
+15. Create a nested dictionary to represent the following data:
   
   ```
   Person:  
@@ -64,19 +64,19 @@
 
 ### **Challenging Problems**
 
-- Given two dictionaries `dict1 = {'a': 5, 'b': 10}` and `dict2 = {'a': 3, 'b': 7}`, write a Python program to add the values of matching keys and print the result.
+26. Given two dictionaries `dict1 = {'a': 5, 'b': 10}` and `dict2 = {'a': 3, 'b': 7}`, write a Python program to add the values of matching keys and print the result.
 
-- Write a Python program to create a dictionary where the keys are the first `n` positive integers, and the values are their cubes. Take `n` as user input.
+27. Write a Python program to create a dictionary where the keys are the first `n` positive integers, and the values are their cubes. Take `n` as user input.
 
-- Flatten the following nested dictionary into a single-level dictionary:
+28. Flatten the following nested dictionary into a single-level dictionary:
   
   ```python
   {'a': {'b': 1, 'c': 2}, 'd': {'e': 3, 'f': 4}}  
   ```
 
-- Write a Python program to split a dictionary into two based on whether the values are odd or even.
+29. Write a Python program to split a dictionary into two based on whether the values are odd or even.
 
-- Create a dictionary comprehension to filter out all keys in `{'a': 1, 'b': 2, 'c': 3, 'd': 4}` where the value is less than 3.
+30. Create a dictionary comprehension to filter out all keys in `{'a': 1, 'b': 2, 'c': 3, 'd': 4}` where the value is less than 3.
 
 
 
