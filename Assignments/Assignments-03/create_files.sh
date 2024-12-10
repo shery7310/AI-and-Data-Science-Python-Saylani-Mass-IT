@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# I used this to create 30 Python Files that were needed to complete dictionaries assignment
 # Check for Fish shell and inform user
 if [[ $SHELL != *fish ]]; then
     echo "This script assumes you are using Fish shell. Continuing anyway..."
