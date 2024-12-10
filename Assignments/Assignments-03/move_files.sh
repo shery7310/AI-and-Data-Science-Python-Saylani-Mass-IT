@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# The 30 files were then move to respective folders using bash
 # Define folder names and the corresponding file ranges
 declare -A folder_ranges=(
     ["Basic Operations"]="Q01.py Q02.py Q03.py Q04.py Q05.py"
