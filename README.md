@@ -1,4 +1,4 @@
-# Artifical Intelligence and Data Science Course by Saylani Mass IT Training Institute (SMIT) _ Saylani-AI-Batch2 (Faisalabad)
+# Artifical Intelligence and Data Science Course by Saylani Mass IT Training Institute (SMIT) - Saylani-AI-Batch2 (Faisalabad)
 
 This course is being taught by [Sir Ahmed Jajja](https://github.com/Ahmadjajja) and [this](https://github.com/Ahmadjajja/AI_n_DataScience) is the original repository that my instructor created on 1st of October 2024. This is an Advance Artificial Intelligent and Data Science Course the Saylani Welfare is teaching for absolutely free 
 
