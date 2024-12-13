@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75ab3059-3903-4b1a-a5de-6b3db9e32c09" name="Changes" comment="Added Readme and Another Pattern">
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q11 Create Dictionary from Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Advanced Dictionary Usage/Q15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q27.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems/Q29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Assignments-03/Nested Dictionaries/Q20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries/Q20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +63,27 @@
     "Python.Q14.executor": "Run",
     "Python.Q16.executor": "Run",
     "Python.Q19.executor": "Run",
+    "Python.Q20.executor": "Run",
+    "Python.Q21.executor": "Run",
+    "Python.Q22.executor": "Run",
+    "Python.Q23.executor": "Run",
+    "Python.Q24.executor": "Run",
+    "Python.Q25.executor": "Run",
+    "Python.Q26.executor": "Run",
+    "Python.Q27.executor": "Run",
+    "Python.Q28.executor": "Run",
+    "Python.Q29.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/rszdev/AI-and-Data-Science-Python-Saylani-Mass-IT"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignments/Assignments-03/Challenging Problems" />
+      <recent name="$PROJECT_DIR$/Assignments/Assignments-03/Applications of Dictionaries" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
