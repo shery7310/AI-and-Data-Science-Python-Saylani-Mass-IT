@@ -4,7 +4,7 @@ This course is being taught by [Sir Ahmed Jajja](https://github.com/Ahmadjajja) 
 
 This is a course aimed at absolute beginners and I say this as a student of Saylani that it's better than even paid courses by institutes in Pakistan. Saylani is offering this absolutely free, the course is worth hundreds of dollars and they are making careers out of students. The instructor who is the first teacher of this course has been a Section Leader at Standford's code in Place and a number of other international hackathons is determined to make us grind in Leetcode, he has also Co-Founded a Software House and also worked as Full Stack Developer.
 
-![Data Science and AI using Python](https://i.imgur.com/tbFlCdi.png)
+<img src="https://i.imgur.com/tbFlCdi.png" alt="AI and Data Science using Python" width="400"/>
 
 ## Artificial Intelligence Course Duration
 This is a one-year program designed for absolute beginners who are passionate about Artificial Intelligence and Data Science. Preparing Pakistan for the new era of computing driven by the rise of AI.
